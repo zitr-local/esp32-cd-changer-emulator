@@ -1,4 +1,4 @@
-# esp32-cd-changer-emulator
+# ESP32 CD changer emulator (5+7pin)
 [work in progress] esp32 project to emulate CD changer for 5+7 pin radio port
 
 
